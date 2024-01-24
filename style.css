@@ -1,0 +1,90 @@
+
+  .title{
+    display: flex;
+    justify-content: center;
+  }
+  .l{
+    display: flex;
+    justify-content: right;
+    margin:10px 0px;
+  }
+    span{
+        background-color:red;
+        border:2px solid black;
+        border-radius:25px;
+    }
+
+    textarea{
+        margin:20px;
+    }
+
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman, 'serif';
+  }
+
+
+  .card {
+    box-shadow: 10px 10px 5px lightblue;
+    border-radius: 15px;
+    background-color: white;
+    border: 2px solid black;
+    width: 600px;
+
+    height: 600px;
+    margin: 30px 700px; 
+
+  }
+.r1 input{
+    width: 270px;
+    height:20px;
+    margin: 0px 5px 5px 5px;
+}
+    .r1 p{
+        margin:10px 5px 0px 5px;
+    }
+  .r1 {
+    display: flex;
+
+
+  }
+
+    .r2 input{
+        width: 270px;
+        height:20px;
+        margin: 0px 5px 5px 5px;
+    }
+        .r2 p{
+            margin:10px 5px 0px 5px;
+        }
+  .r2 {
+    display: flex;
+
+  }
+
+
+    .r4 input{
+        width: 270px;
+        height:20px;
+        margin: 0px 5px 5px 5px;
+    }
+        .r4 p{
+            margin:10px 5px 0px 5px;
+        }
+      .r4 {
+        display: flex;
+
+      }
+    .r5 input{
+        width: 270px;
+        height:20px;
+        margin: 0px 5px 5px 5px;
+    }
+        .r5 p{
+            margin:10px 5px 0px 5px;
+        }
+      .r5 {
+        display: flex;
+
+      }
